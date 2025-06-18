@@ -1,0 +1,12 @@
+step 1: create a new repository in GitHub
+step 2: create a folder in local computer
+step 3: open cmd through the folder in local computer
+step 4: copy the repository link 
+step 5: type the command in cmd  
+
+->git clone (repository link)
+->dir
+->cd folder name
+->git add .
+->git commit -m "message"
+->git push origin main
