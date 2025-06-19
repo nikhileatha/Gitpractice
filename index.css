@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(224, 225, 226);
+    font-family: Arial, Helvetica, sans-serif;
+}
+    
+    
+header{
+    text-align: center;
+    background-color: rgb(62, 18, 103);
+    height: 80px; 
+}
+
+header h1{
+    padding-top: 20px;
+    color: aliceblue;
+}
+
+img{
+    border-radius: 500px;
+    height:180px;
+    width: 200px;
+}
+
+section{
+    padding: 15px;
+    border-radius: 20px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px;  
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}
+
+.Contact label{
+display: block;
+padding: 5px;
+font-weight: bold;
+}
+
+.Contact input{
+    width: 99%;
+    padding: 10px;
+}
+.Contact textarea{
+    width: 100%;
+    height: 100px;
+}
+button{
+    width: 100%;
+    background-color: rgb(77, 14, 137);
+    color: aliceblue;
+    border-radius: 5px;
+    height: 30px;
+    cursor: pointer;
+    margin: 10px;
+
+}
+  
